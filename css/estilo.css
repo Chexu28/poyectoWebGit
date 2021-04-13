@@ -9,3 +9,8 @@ h2 {
 	font-size: 25;
 	color: blue;
 }
+
+img {
+	height: 20px;
+	width: 50px;
+}
